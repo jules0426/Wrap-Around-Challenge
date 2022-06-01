@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+canvas {
+    border: 1px solid white;
+    margin-top: 10px;
+}
